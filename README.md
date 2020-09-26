@@ -5,9 +5,11 @@ Trabalho 4 Optativa II, fazer uma lista de gastos mensais
 Descrição do trabalho:
 
 1 - Acrescente a funcionalidade de exclusão de um gasto mensal ao app desenvolvido na aula.
+
 Como excluir: arrastando o gasto mensal para a direita.
 
 2 - Acrescente a funcionalidade de alteração de dados de um gasto mensal ao app desenvolvido na aula.
+
 Como alterar: clicando no gasto mensal que se desejan alterar.
 
 
