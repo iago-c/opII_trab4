@@ -10,7 +10,7 @@ Como excluir: arrastando o gasto mensal para a direita.
 
 2 - Acrescente a funcionalidade de alteração de dados de um gasto mensal ao app desenvolvido na aula.
 
-Como alterar: clicando no gasto mensal que se desejan alterar.
+Como alterar: clicando no gasto mensal que se deseja alterar.
 
 
 ## Getting Started
